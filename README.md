@@ -9,5 +9,7 @@
 Directorio que compila la información de las comunidades de Puerto Rico
 
 ## Link
-http://104.197.222.231/
+http://info.comunidadespr.com/
+y
+http://www.comunidadespr.com/
 Grails app for comunidadespr.com
